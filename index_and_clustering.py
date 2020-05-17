@@ -1,3 +1,5 @@
+#The following code generates an index files and clusters the student records
+
 def hf(roll):
     hash=10
     return roll%hash 
