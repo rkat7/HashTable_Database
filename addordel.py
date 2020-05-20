@@ -1,7 +1,7 @@
 
-from untitled19 import *
+from SearchFeature import *
 
-from untitled21 import *
+from index_and_clustering import *
 
 def add(n,roll,sec,age):
     f=open("all_inputs.txt",'a')
